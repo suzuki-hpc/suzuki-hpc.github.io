@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kengo Suzuki</title><link>https://suzuki-hpc.github.io/</link><description>Recent content on Kengo Suzuki</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 18 Oct 2024 13:15:56 +0900</lastBuildDate><atom:link href="https://suzuki-hpc.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>リンク</title><link>https://suzuki-hpc.github.io/links/</link><pubDate>Fri, 18 Oct 2024 13:15:56 +0900</pubDate><guid>https://suzuki-hpc.github.io/links/</guid><description>&lt;h2 id="京都大学httpswwwkyoto-uacjpen">&lt;a href="https://www.kyoto-u.ac.jp/en">京都大学&lt;/a>&lt;/h2></description></item><item><title>開設しました</title><link>https://suzuki-hpc.github.io/posts/1/</link><pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate><guid>https://suzuki-hpc.github.io/posts/1/</guid><description>&lt;p>ホームページを開設しました。&lt;/p></description></item><item><title/><link>https://suzuki-hpc.github.io/index-about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://suzuki-hpc.github.io/index-about/</guid><description>&lt;h2 id="学歴">学歴&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kengo Suzuki</title><link>https://suzuki-hpc.github.io/</link><description>Recent content on Kengo Suzuki</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 18 Oct 2024 13:15:56 +0900</lastBuildDate><atom:link href="https://suzuki-hpc.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>リンク</title><link>https://suzuki-hpc.github.io/links/</link><pubDate>Fri, 18 Oct 2024 13:15:56 +0900</pubDate><guid>https://suzuki-hpc.github.io/links/</guid><description>&lt;h3 id="京都大学httpswwwkyoto-uacjp">&lt;a href="https://www.kyoto-u.ac.jp">京都大学&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://www.i.kyoto-u.ac.jp/">情報学研究科&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.media.kyoto-u.ac.jp/">学術情報メディアセンター&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="北海道大学httpswwwkyoto-uacjp">&lt;a href="https://www.kyoto-u.ac.jp">北海道大学&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.ist.hokudai.ac.jp">情報科学院&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.iic.hokudai.ac.jp">情報基盤センター&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hpc.ist.hokudai.ac.jp">HPC研究室&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>開設しました</title><link>https://suzuki-hpc.github.io/posts/1/</link><pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate><guid>https://suzuki-hpc.github.io/posts/1/</guid><description>&lt;p>ホームページを開設しました。&lt;/p></description></item><item><title/><link>https://suzuki-hpc.github.io/index-about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://suzuki-hpc.github.io/index-about/</guid><description>&lt;h2 id="学歴">学歴&lt;/h2>
 &lt;ul>
 &lt;li>
 &lt;p>2024/09: 北海道大学大学院情報科学院理工学コース 博士後期課程 修了&lt;/p>
@@ -17,6 +27,9 @@
 &lt;ul>
 &lt;li>
 &lt;p>2023/10–現在: 京都大学 学術情報メディアセンター 助教&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="http://hpc.media.kyoto-u.ac.jp">スーパーコンピューティング分野&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;/li>
 &lt;li>
 &lt;p>2023/04–2023/09: 日本学術振興会 特別研究員（DC2）&lt;/p>

@@ -1,14 +1,7 @@
-:root {
-    --font-base: "Noto Sans JP", system-ui, -apple-system, BlinkMacSystemFont,
-        "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
-    --font-mono: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
-}
+/* :root {
+    font-family: "Noto Sans JP", "Hiragino Kaku Gothic Pro", "Yu Gothic", Meiryo, sans-serif;
+} */
 
-body {
-    font-family: var(--font-base);
-}
-
-code,
-pre {
-    font-family: var(--font-mono);
-}
+/* body {
+    font-family: "Noto Sans JP", Meiryo, sans-serif;
+} */

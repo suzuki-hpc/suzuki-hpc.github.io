@@ -22,7 +22,7 @@ unsafe = true
 [params]
 author = "Kengo Suzuki"
 description = "Kengo Suzuki's personal website"
-bibliography = "I am an Assistant Professor at Kyoto University. My professional interests include in numerical linear algebra and high-performance computing."
+bibliography = "My professional interests include in numerical linear algebra and high-performance computing."
 keywords = "blog,developer,personal"
 info = ["鈴木 謙吾"]
 avatarURL = "images/avatar.png"
@@ -65,11 +65,11 @@ icon = "fa-brands fa-github fa-2x"
 weight = 1
 url = "https://github.com/suzuki-hpc"
 
-# [[params.social]]
-# name = "LinkedIn"
-# icon = "fa-brands fa-linkedin fa-2x"
-# weight = 4
-# url = "https://www.linkedin.com/in/johndoe/"
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 4
+url = "https://www.linkedin.com/in/kengo-suzuki-4296aa391/"
 
 [[params.social]]
 name = "Orcid"
@@ -112,7 +112,7 @@ title = "Kengo Suzuki"
 
 [languages.ja.params]
 author = "Kengo Suzuki"
-bibliography = ""
+bibliography = "数値線形代数と高性能計算に関する研究をしています。"
 
 [[languages.ja.menu.main]]
 name = "経歴"

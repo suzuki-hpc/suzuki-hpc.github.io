@@ -1,0 +1,135 @@
+baseURL = 'https://suzuki-hpc.github.io'
+title = 'Kengo Suzuki'
+theme = "hugo-coder"
+languageCode = 'ja'
+defaultContentLanguage = "ja"
+enableEmoji = true
+
+[pagenation]
+pagerSize = 6
+
+[services]
+[services.disqus]
+
+[markup]
+[markup.highlight]
+noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+author = "Kengo Suzuki"
+description = "Kengo Suzuki's personal website"
+bibliography = "I am an Assistant Professor at Kyoto University. My professional interests include in numerical linear algebra and high-performance computing."
+keywords = "blog,developer,personal"
+info = ["鈴木 謙吾"]
+avatarURL = "images/avatar.png"
+dateFormat = "2006-01-02"
+since = 2024
+# Git Commit in Footer, uncomment the line below to enable it
+# commit = "https://github.com/luizdepra/hugo-coder/tree/"
+# Right To Left, shift content direction for languages such as Arabic
+rtl = false
+# Specify light/dark colorscheme
+# Supported values:
+# "auto" (use preference set by browser)
+# "dark" (dark background, light foreground)
+# "light" (light background, dark foreground) (default)
+colorScheme = "auto"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = true
+# Series see also post count
+maxSeeAlsoItems = 5
+# Custom CSS
+customCSS = ["css/custom.css"]
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
+
+# Custom JS
+customJS = []
+
+# Custom remote JS files
+customRemoteJS = []
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/suzuki-hpc"
+
+# [[params.social]]
+# name = "LinkedIn"
+# icon = "fa-brands fa-linkedin fa-2x"
+# weight = 4
+# url = "https://www.linkedin.com/in/johndoe/"
+
+[[params.social]]
+name = "Orcid"
+icon = "fa-brands fa-orcid fa-2x"
+weight = 5
+url = "https://orcid.org/0009-0002-8328-0388"
+
+[[params.social]]
+name = "Google Scholar"
+icon = "fa-brands fa-google-scholar fa-2x"
+weight = 6
+url = "https://scholar.google.co.jp/citations?user=cFiH0CcAAAAJ&hl=en"
+
+[languages.en]
+languageName = ":uk:"
+
+[[languages.en.menu.main]]
+name = "CV"
+weight = 1
+url = "about/"
+
+[[languages.en.menu.main]]
+name = "Publications"
+weight = 2
+url = "paper/"
+
+[[languages.en.menu.main]]
+name = "Posts"
+weight = 3
+url = "posts/"
+
+[[languages.en.menu.main]]
+name = "Links"
+weight = 5
+url = "link/"
+
+[languages.ja]
+languageName = ":jp:"
+title = "Kengo Suzuki"
+
+[languages.ja.params]
+author = "Kengo Suzuki"
+bibliography = ""
+
+[[languages.ja.menu.main]]
+name = "経歴"
+weight = 1
+url = "about/"
+
+[[languages.ja.menu.main]]
+name = "論文"
+weight = 2
+url = "paper/"
+
+[[languages.ja.menu.main]]
+name = "ポスト"
+weight = 3
+url = "posts/"
+
+[[languages.ja.menu.main]]
+name = "リンク"
+weight = 5
+url = "link/"

@@ -1,6 +1,6 @@
 +++
 date = '2025-08-31T18:54:25+09:00'
-draft = true
+draft = false
 title = '経歴'
 +++
 

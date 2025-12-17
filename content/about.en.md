@@ -1,6 +1,6 @@
 +++
 date = '2025-08-31T18:55:04+09:00'
-draft = true
+draft = false
 title = 'CV'
 +++
 

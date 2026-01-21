@@ -84,7 +84,7 @@ weight = 6
 url = "https://scholar.google.co.jp/citations?user=cFiH0CcAAAAJ&hl=en"
 
 [languages.en]
-languageName = ":uk:"
+languageName = ":us:"
 
 [[languages.en.menu.main]]
 name = "CV"

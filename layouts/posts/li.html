@@ -3,7 +3,7 @@
     {{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}
   </span>
   {{ if .Params.nocontents }}
-  <span class="title">{{ .Title }}</span>
+  <span class="title-only">{{ .Title }}</span>
   {{ else }}
   <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
   {{ end }}

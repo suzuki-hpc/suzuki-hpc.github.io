@@ -1,7 +1,9 @@
-/* :root {
-    font-family: "Noto Sans JP", "Hiragino Kaku Gothic Pro", "Yu Gothic", Meiryo, sans-serif;
-} */
+.figures {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
 
-/* body {
-    font-family: "Noto Sans JP", Meiryo, sans-serif;
-} */
+.figures figure {
+    margin: 0;
+}

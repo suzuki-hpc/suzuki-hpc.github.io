@@ -22,7 +22,7 @@ unsafe = true
 [params]
 author = "Kengo Suzuki"
 description = "Kengo Suzuki's personal website"
-bibliography = "My professional interests include in numerical linear algebra and high-performance computing."
+bibliography = "I'm a researcher in numerical linear algebra and high-performance computing."
 keywords = "blog,developer,personal"
 info = ["鈴木 謙吾"]
 avatarURL = "images/avatar.png"
